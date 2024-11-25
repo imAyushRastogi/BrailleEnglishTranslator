@@ -1,2 +1,3 @@
 # BrailleEnglishTranslator
-A Python-based tool designed to facilitate seamless translation between Braille and English text. This repository implements algorithms to interpret Braille input and convert it into readable English, as well as translate English text into Braille format. It supports various use cases, including aiding visually impaired individuals and education.
+
+A Python-based tool designed to enable seamless translation between Braille and English text. This repository features algorithms to convert Braille input into readable English and vice versa. It can instantly translate individual text, files, or entire directories in a single operation. The tool serves various purposes, including supporting visually impaired individuals and enhancing educational accessibility.
